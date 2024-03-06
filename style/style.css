@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.continer {
+    width: 1140px;
+    margin-top: 150px;
+}
+
+.a {
+    margin-left: 100px;
+}
+
+.b {
+    margin-top: 195px;
+    margin-left: 100px;
+}
+
+.s {
+    margin-top: 23px;
+    margin-left: 100px;
+}
+
+.e {
+    margin-left: 400px;
+    margin-top: -185px;
+}
+
+.f {
+    margin-left: 0px;
+    margin-top: -150px;
+}
+
+.g {
+    margin-left: 404px;
+}
+
+.right {
+    width: 100%;
+    margin-left: 571px;
+    margin-top: -800px;
+}
